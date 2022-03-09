@@ -12,4 +12,4 @@ class student1 extends student{
 }
 let s=new student1();
 s.display();
-s.display();
+s.display1();
